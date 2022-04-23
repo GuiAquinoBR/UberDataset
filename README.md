@@ -1,5 +1,5 @@
 # Uber Dataset
-Análise rápida do dataset da Uber utilizando o Apache Spark (PySpark) respondendo a cinco perguntas: 
+Análise rápida do dataset da Uber utilizando o Apache Spark respondendo a cinco perguntas: 
 
 1- Quantos são e quais são as bases de carros do Uber (onde os carros ficam esperando passageiros)?
 
